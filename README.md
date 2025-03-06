@@ -11,7 +11,6 @@ This project aims to predict fake news using machine learning techniques. The mo
 - [Model](#model)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
